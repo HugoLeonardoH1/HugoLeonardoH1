@@ -40,7 +40,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/hugoleonardoh1/hugoleonardoh1/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
