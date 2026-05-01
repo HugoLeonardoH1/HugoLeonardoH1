@@ -54,8 +54,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/hugoleonardoh1/count.svg?"  />
-</div>
+
 
 ###
